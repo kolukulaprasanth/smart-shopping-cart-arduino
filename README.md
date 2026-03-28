@@ -171,9 +171,11 @@ Electronics Engineer
 Interested in Robotics, Automation and Embedded Systems
 
 ---
+## Project Report
+
+📄 [Download Full Report](docs/project_report.pdf)
 
 ---
-
 ## ⭐ Support
 
 If you found this project useful, consider giving it a star ⭐ on GitHub to support the work.
