@@ -129,14 +129,14 @@ Install libraries through Arduino IDE Library Manager.
 ![Hardware](images/images/Hardware.png)
 
 ### Components
-![Components](images/components)
+![Components](images/images/components)
 
 ### Flowchart
 ![Flowchart](images/images/Flowchart.png)
 
 ### Output Display
 ![Output](images/images/Output 1.png)
-![Output](images/imgaes/Output 2.png)
+![Output](images/images/Output 2.png)
 
 ---
 
