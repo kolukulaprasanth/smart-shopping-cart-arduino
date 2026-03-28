@@ -135,8 +135,8 @@ Install libraries through Arduino IDE Library Manager.
 ![Flowchart](images/images/Flowchart.png)
 
 ### Output Display
-![Output](images/images/Output 1.png)
-![Output](images/images/Output 2.png)
+![Output](images/images/Output1.png)
+![Output](images/images/output2.png)
 
 ---
 
